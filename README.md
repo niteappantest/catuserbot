@@ -22,7 +22,7 @@ A simple Telegram userbot based on Telethon .
   - [Source Code](https://github.com/Mr-confused/catpack)
   - [Source Code](https://github.com/sandy1709/catuserbot)
   - [String](https://replit.com/@niteappantest/generatestringsession#.replit)
-  - [![Deploy To Heroku](https://www.heroku.com/deploy?template=https://github.com/niteappantest/catuserbot)
+  - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/niteappantest/catuserbot)
 
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
